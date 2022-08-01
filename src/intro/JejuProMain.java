@@ -7,7 +7,7 @@ public class JejuProMain {
 	public static void main(String[] args) {
 		
 		JejuBase.getInstance(new JejuBegin());
-
+		int a = 0;
 	}
 
 }
